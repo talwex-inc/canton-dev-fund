@@ -8,9 +8,9 @@
 
 **Created:** 2026-08-03
 
-**Proposal Type:** Individual Initiative
+**Proposal Type:** RFP-aligned
 
-**RFP / Roadmap Area:** N/A
+**RFP / Roadmap Area:** Payments and DeFi (Financial Markets, Standards & Verification)
 
 **Champion:** @akshaysinha100 (Alpend)
 
