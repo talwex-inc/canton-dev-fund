@@ -10,7 +10,7 @@
 
 **Proposal Type:** RFP-aligned
 
-**RFP / Roadmap Area:** Payments and DeFi (Financial Markets, Standards & Verification)
+**RFP / Roadmap Area:** Payments and DeFi (#13); RWA Standards (12)
 
 **Champion:** @akshaysinha100 (Alpend)
 
